@@ -51,7 +51,7 @@ table {
 body{
 	font: 16px/28px arial, sans-serif;
 	background-color: darkgray;
-	background-image: url(img/pattern.png);
+	background-image: url(../img/pattern.png);
 	
 }
 
@@ -103,7 +103,7 @@ body{
 	 
 	 height: 280px;
 	 background-color: slateblue;
-	 background-image:url(img/cover.png);
+	 background-image:url(../img/cover.png);
 	 background-size: cover;;
 	 background-position: 0 0;
 	 border-top:5px solid #E91E63;
